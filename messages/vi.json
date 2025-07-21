@@ -1,0 +1,30 @@
+{
+	"common": {
+		"welcome": "Chào mừng",
+		"home": "Trang chủ",
+		"about": "Giới thiệu",
+		"language": "Ngôn ngữ",
+		"vietnamese": "Tiếng Việt",
+		"english": "Tiếng Anh"
+	},
+	"navigation": {
+		"home": "Trang chủ",
+		"about": "Giới thiệu",
+		"contact": "Liên hệ",
+		"products": "Sản phẩm"
+	},
+	"homepage": {
+		"title": "Chào mừng đến với VietFarm",
+		"subtitle": "Đối tác nông nghiệp đáng tin cậy của bạn",
+		"description": "Khám phá các sản phẩm và dịch vụ nông nghiệp chất lượng cao từ Việt Nam.",
+		"getStarted": "Bắt đầu",
+		"learnMore": "Tìm hiểu thêm"
+	},
+	"about": {
+		"title": "Giới thiệu VietFarm",
+		"description": "Chúng tôi cam kết cung cấp các giải pháp nông nghiệp tốt nhất cho nông dân và doanh nghiệp trên khắp Việt Nam và xa hơn nữa.",
+		"mission": "Sứ mệnh của chúng tôi",
+		"vision": "Tầm nhìn của chúng tôi",
+		"values": "Giá trị của chúng tôi"
+	}
+}

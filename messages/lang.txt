@@ -1,0 +1,7 @@
+Translation Management Tools
+Use professional tools for large projects:
+
+Crowdin - Collaborative translation platform
+Lokalise - Translation management system
+Phrase - Localization platform
+react-i18next with i18next-scanner for automatic key extraction

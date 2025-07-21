@@ -1,0 +1,30 @@
+{
+	"common": {
+		"welcome": "Welcome",
+		"home": "Home",
+		"about": "About",
+		"language": "Language",
+		"vietnamese": "Vietnamese",
+		"english": "English"
+	},
+	"navigation": {
+		"home": "Home",
+		"about": "About Us",
+		"contact": "Contact",
+		"products": "Products"
+	},
+	"homepage": {
+		"title": "Welcome to VietFarm",
+		"subtitle": "Your trusted agricultural partner",
+		"description": "Discover high-quality agricultural products and services from Vietnam.",
+		"getStarted": "Get Started",
+		"learnMore": "Learn More"
+	},
+	"about": {
+		"title": "About VietFarm",
+		"description": "We are committed to providing the best agricultural solutions for farmers and businesses across Vietnam and beyond.",
+		"mission": "Our Mission",
+		"vision": "Our Vision",
+		"values": "Our Values"
+	}
+}
