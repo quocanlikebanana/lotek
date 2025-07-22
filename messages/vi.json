@@ -14,17 +14,107 @@
 		"products": "Sản phẩm"
 	},
 	"homepage": {
-		"title": "Chào mừng đến với VietFarm",
-		"subtitle": "Đối tác nông nghiệp đáng tin cậy của bạn",
-		"description": "Khám phá các sản phẩm và dịch vụ nông nghiệp chất lượng cao từ Việt Nam.",
-		"getStarted": "Bắt đầu",
-		"learnMore": "Tìm hiểu thêm"
+		"hero": {
+			"title": "Chào mừng đến với Lotek",
+			"subtitle": "Kết nối doanh nghiệp, mở rộng cơ hội",
+			"description": "Kết nối với sản phẩm, dịch vụ uy tín, khám phá cơ hội mới và phát triển mạng lưới của bạn.",
+			"getStarted": "Bắt đầu",
+			"learnMore": "Tìm hiểu thêm"
+		},
+		"features": {
+			"title": "Tại sao chọn chúng tôi",
+			"description": "Khám phá những lợi ích của việc hợp tác với Lotek cho nhu cầu kinh doanh của bạn.",
+			"feature1": {
+				"title": "Sản phẩm đáng tin cậy",
+				"description": "Khám phá nhiều sản phẩm từ các nhà cung cấp đã được xác minh."
+			},
+			"feature2": {
+				"title": "Đánh giá cộng đồng",
+				"description": "Đọc đánh giá từ người dùng khác để đưa ra quyết định thông minh."
+			},
+			"feature3": {
+				"title": "Mạng lưới kinh doanh",
+				"description": "Kết nối với các doanh nghiệp khác và mở rộng mạng lưới của bạn."
+			}
+		},
+		"callToAction": {
+			"title": "Tham gia cộng đồng Lotek",
+			"description": "Đăng ký ngay hôm nay để bắt đầu kết nối với các doanh nghiệp và sản phẩm quan trọng đối với bạn.",
+			"joinNow": "Tham gia ngay",
+			"alreadyMember": "Đã là thành viên? Đăng nhập"
+		}
 	},
 	"about": {
-		"title": "Giới thiệu VietFarm",
+		"title": "Giới thiệu Lotek",
 		"description": "Chúng tôi cam kết cung cấp các giải pháp nông nghiệp tốt nhất cho nông dân và doanh nghiệp trên khắp Việt Nam và xa hơn nữa.",
 		"mission": "Sứ mệnh của chúng tôi",
 		"vision": "Tầm nhìn của chúng tôi",
 		"values": "Giá trị của chúng tôi"
+	},
+	"auth": {
+		"common": {
+			"passwordLabel": "Mật khẩu",
+			"passwordPlaceholder": "Nhập mật khẩu của bạn",
+			"confirmPasswordLabel": "Xác nhận mật khẩu",
+			"confirmPasswordPlaceholder": "Nhập lại mật khẩu của bạn"
+		},
+		"login": {
+			"title": "Chào Mừng Trở Lại",
+			"subtitle": "Đăng nhập vào tài khoản Lotek của bạn",
+			"emailLabel": "Địa chỉ Email",
+			"emailPlaceholder": "Nhập địa chỉ email của bạn",
+			"signInButton": "Đăng Nhập",
+			"forgotPassword": "Quên mật khẩu?",
+			"noAccount": "Chưa có tài khoản?",
+			"signUp": "Đăng ký tại đây",
+			"rememberMe": "Ghi nhớ đăng nhập",
+			"orContinueWith": "Hoặc tiếp tục với"
+		},
+		"register": {
+			"title": "Tạo tài khoản mới",
+			"subtitle": "Đăng ký để tham gia Lotek",
+			"nameLabel": "Họ và tên",
+			"namePlaceholder": "Nhập họ và tên của bạn",
+			"emailLabel": "Địa chỉ Email",
+			"emailPlaceholder": "Nhập địa chỉ email của bạn",
+			"signUpButton": "Đăng ký",
+			"alreadyHaveAccount": "Đã có tài khoản?",
+			"signIn": "Đăng nhập tại đây",
+			"agreeTerms": "Tôi đồng ý với Điều khoản và Chính sách bảo mật",
+			"orContinueWith": "Hoặc tiếp tục với",
+			"errors": {
+				"nameRequired": "Họ và tên là bắt buộc",
+				"nameMinLength": "Họ và tên phải có ít nhất 2 ký tự",
+				"nameMaxLength": "Họ và tên không được vượt quá 50 ký tự",
+				"emailRequired": "Email là bắt buộc",
+				"emailFormatError": "Định dạng email không hợp lệ",
+				"passwordRequired": "Mật khẩu là bắt buộc",
+				"passwordMinLength": "Mật khẩu phải có ít nhất 8 ký tự",
+				"passwordMaxLength": "Mật khẩu không được vượt quá 50 ký tự",
+				"passwordFormatError": "Mật khẩu phải chứa ít nhất một chữ cái viết hoa, một chữ cái viết thường và một số",
+				"confirmPasswordRequired": "Vui lòng xác nhận mật khẩu",
+				"confirmPasswordMismatch": "Mật khẩu xác nhận không khớp",
+				"agreeTermsRequired": "Bạn phải đồng ý với Điều khoản và Chính sách bảo mật"
+			}
+		}
+	},
+	"header": {
+		"joinUs": "Tham gia",
+		"signIn": "Đăng nhập"
+	},
+	"footer": {
+		"companyName": "LoTek",
+		"companyDescription": "Kết nối doanh nghiệp và khách hàng với sản phẩm uy tín và đánh giá cộng đồng.",
+		"quickLinks": "Liên kết nhanh",
+		"services": "Dịch vụ",
+		"support": "Hỗ trợ",
+		"contact": "Liên hệ với chúng tôi",
+		"email": "info@vietfarm.com",
+		"phone": "+84 123 456 789",
+		"address": "123 Đường Nông Nghiệp, Thành phố Hồ Chí Minh, Việt Nam",
+		"followUs": "Theo dõi chúng tôi",
+		"allRightsReserved": "Bảo lưu mọi quyền.",
+		"privacyPolicy": "Chính sách bảo mật",
+		"termsOfService": "Điều khoản dịch vụ"
 	}
 }

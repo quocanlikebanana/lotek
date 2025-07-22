@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="64" transform="matrix(1 0 -0.422618 0.906308 167.048 162)" fill="#333A73"/>
+<rect width="64" height="256" transform="matrix(1 0 -0.422618 0.906308 224.238 59)" fill="#FBA834"/>
+<rect width="224" height="64" transform="matrix(1 0 -0.422618 0.906308 116.048 291)" fill="#FBA834"/>
+<rect width="64" height="64" transform="matrix(1 0 -0.422618 0.906308 116.048 291)" fill="#E08300"/>
+<rect width="64" height="320" transform="matrix(1 0 -0.422618 0.906308 263.048 162)" fill="#333A73"/>
+<rect width="64" height="64" transform="matrix(1 0 -0.422618 0.906308 263.048 162)" fill="#2A60B3"/>
+</svg>

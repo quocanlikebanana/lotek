@@ -14,17 +14,106 @@
 		"products": "Products"
 	},
 	"homepage": {
-		"title": "Welcome to VietFarm",
-		"subtitle": "Your trusted agricultural partner",
-		"description": "Discover high-quality agricultural products and services from Vietnam.",
-		"getStarted": "Get Started",
-		"learnMore": "Learn More"
+		"hero": {
+			"title": "Welcome to Lotek",
+			"subtitle": "Empowering your business reach",
+			"description": "Connect with trusted products and services, discover new opportunities, and grow your network.",
+			"getStarted": "Get Started",
+			"learnMore": "Learn More"
+		},
+		"features": {
+			"title": "Why Choose Us",
+			"description": "Discover the benefits of partnering with Lotek for your business needs.",
+			"feature1": {
+				"title": "Trusted Products",
+				"description": "Explore a wide range of products from verified suppliers."
+			},
+			"feature2": {
+				"title": "Community Reviews",
+				"description": "Read reviews from other users to make informed decisions."
+			},
+			"feature3": {
+				"title": "Business Networking",
+				"description": "Connect with other businesses and expand your network."
+			}
+		},
+		"callToAction": {
+			"title": "Join the Lotek Community",
+			"description": "Sign up today to start connecting with businesses and products that matter to you.",
+			"joinNow": "Join Now",
+			"alreadyMember": "Already a member? Sign in"
+		}
 	},
 	"about": {
-		"title": "About VietFarm",
+		"title": "About Lotek",
 		"description": "We are committed to providing the best agricultural solutions for farmers and businesses across Vietnam and beyond.",
 		"mission": "Our Mission",
 		"vision": "Our Vision",
 		"values": "Our Values"
+	},
+	"auth": {
+		"common": {
+			"passwordLabel": "Password",
+			"passwordPlaceholder": "Create a password",
+			"confirmPasswordLabel": "Confirm Password",
+			"confirmPasswordPlaceholder": "Re-enter your password"
+		},
+		"login": {
+			"title": "Welcome Back",
+			"subtitle": "Sign in to your Lotek account",
+			"emailLabel": "Email Address",
+			"emailPlaceholder": "Enter your email address",
+			"signInButton": "Sign In",
+			"forgotPassword": "Forgot your password?",
+			"noAccount": "Don't have an account?",
+			"signUp": "Sign up here",
+			"rememberMe": "Remember me",
+			"orContinueWith": "Or continue with"
+		},
+		"register": {
+			"title": "Create your account",
+			"subtitle": "Sign up to join Lotek",
+			"nameLabel": "Full Name",
+			"namePlaceholder": "Enter your full name",
+			"emailLabel": "Email Address",
+			"emailPlaceholder": "Enter your email address",
+			"signUpButton": "Sign Up",
+			"alreadyHaveAccount": "Already have an account?",
+			"signIn": "Sign in here",
+			"agreeTerms": "I agree to the Terms and Privacy Policy",
+			"orContinueWith": "Or continue with",
+			"errors": {
+				"nameRequired": "Name is required",
+				"nameMinLength": "Name must be at least 2 characters",
+				"nameMaxLength": "Name must not exceed 50 characters",
+				"emailFormatError": "Please enter a valid email address",
+				"passwordRequired": "Password is required",
+				"passwordMinLength": "Password must be at least 6 characters",
+				"passwordMaxLength": "Password must not exceed 50 characters",
+				"passwordFormatError": "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character",
+				"confirmPasswordRequired": "Please confirm your password",
+				"confirmPasswordMismatch": "Passwords don't match",
+				"agreeTermsRequired": "You must agree to the terms and conditions"
+			}
+		}
+	},
+	"header": {
+		"joinUs": "Join Us",
+		"signIn": "Sign In"
+	},
+	"footer": {
+		"companyName": "LoTek",
+		"companyDescription": "Connecting businesses and customers with trusted products and community reviews.",
+		"quickLinks": "Quick Links",
+		"services": "Services",
+		"support": "Support",
+		"contact": "Contact Us",
+		"email": "info@vietfarm.com",
+		"phone": "+84 123 456 789",
+		"address": "123 Agricultural Street, Ho Chi Minh City, Vietnam",
+		"followUs": "Follow Us",
+		"allRightsReserved": "All rights reserved.",
+		"privacyPolicy": "Privacy Policy",
+		"termsOfService": "Terms of Service"
 	}
 }

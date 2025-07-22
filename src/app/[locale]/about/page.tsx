@@ -1,5 +1,5 @@
 import { useTranslations } from 'next-intl';
-import LanguageToggle from '../../../components/LanguageToggle';
+import LanguageToggle from '../../../components/components/LanguageToggle';
 import { Link } from '../../../i18n/routing';
 
 export default function About() {

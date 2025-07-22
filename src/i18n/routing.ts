@@ -5,8 +5,11 @@ export const routing = defineRouting({
 	// A list of all locales that are supported
 	locales: ['en', 'vi'],
 
+	// The default locale is used when no locale is specified
+	// in the URL or when the user has no preferred locale.
 	// Used when no locale matches
 	defaultLocale: 'vi',
+
 
 	// The `pathnames` object holds pairs of internal and
 	// external paths. Based on the locale, the external
@@ -23,7 +26,9 @@ export const routing = defineRouting({
 			en: '/about',
 			vi: '/gioi-thieu'
 		}
-	}
+	},
+
+
 });
 
 // Lightweight wrappers around Next.js' navigation APIs
