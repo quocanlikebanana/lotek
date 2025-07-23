@@ -39,7 +39,7 @@ export default function LanguageToggle() {
 	];
 
 	// Use the current locale from useLocale hook
-	const selectedLanguage = languages.find(lang => lang.code === locale) || languages[0];
+	const selectedLanguage = languages.find(lang => lang.code === locale) || languages[0]!;
 
 	return (
 		<DropdownMenu>

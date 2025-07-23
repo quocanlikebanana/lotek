@@ -115,5 +115,10 @@
 		"allRightsReserved": "All rights reserved.",
 		"privacyPolicy": "Privacy Policy",
 		"termsOfService": "Terms of Service"
+	},
+	"badRequest": {
+		"phoneAlreadyExists": "Phone number already exists",
+		"invalidCredentials": "Invalid credentials",
+		"invalidFormat": "Invalid format"
 	}
 }

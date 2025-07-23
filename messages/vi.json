@@ -116,5 +116,10 @@
 		"allRightsReserved": "Bảo lưu mọi quyền.",
 		"privacyPolicy": "Chính sách bảo mật",
 		"termsOfService": "Điều khoản dịch vụ"
+	},
+	"badRequest": {
+		"phoneAlreadyExists": "Số điện thoại đã tồn tại",
+		"invalidCredentials": "Thông tin đăng nhập không hợp lệ",
+		"invalidFormat": "Định dạng không hợp lệ"
 	}
 }
